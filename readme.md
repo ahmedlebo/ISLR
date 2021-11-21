@@ -27,9 +27,9 @@ Links to view each notebook below. The code is provided here.
 
 [Chapter 2 - Statistical Learning](https://github.com/ahmedlebo/ISLR/blob/main/Coceptual%2BPython/Chapter2.ipynb)
 
-[Chapter 3 - Linear Regression] (https://github.com/ahmedlebo/ISLR/blob/main/Coceptual%2BPython/Chapter3.ipynb)
+[Chapter 3 - Linear Regression](https://github.com/ahmedlebo/ISLR/blob/main/Coceptual%2BPython/Chapter3.ipynb)
 
-[Chapter 4 - Classification] (https://github.com/ahmedlebo/ISLR/blob/main/Coceptual%2BPython/Chapter4.ipynb)
+[Chapter 4 - Classification](https://github.com/ahmedlebo/ISLR/blob/main/Coceptual%2BPython/Chapter4.ipynb)
 
 [Chapter 5 - Resampling Methods](https://github.com/ahmedlebo/ISLR/blob/main/Coceptual%2BPython/Chapter5.ipynb)
 
@@ -41,11 +41,11 @@ Links to view each notebook below. The code is provided here.
 
 [Chapter 9 - Support Vetor Machines](https://github.com/ahmedlebo/ISLR/blob/main/Coceptual%2BPython/Chapter9.ipynb)
 
-[Chapter 10 - Deep Learning] (https://github.com/ahmedlebo/ISLR/blob/main/Coceptual%2BPython/Chapter10.ipynb)
+[Chapter 10 - Deep Learning](https://github.com/ahmedlebo/ISLR/blob/main/Coceptual%2BPython/Chapter10.ipynb)
 
-[Chapter 11 - Survival Analysis and Censored Data] (https://github.com/ahmedlebo/ISLR/blob/main/Coceptual%2BPython/Chapter11.ipynb)
+[Chapter 11 - Survival Analysis and Censored Data](https://github.com/ahmedlebo/ISLR/blob/main/Coceptual%2BPython/Chapter11.ipynb)
 
-[Chapter 12 - Unsupervised Learning] (https://github.com/ahmedlebo/ISLR/blob/main/Coceptual%2BPython/Chapter12.ipynb)
+[Chapter 12 - Unsupervised Learning](https://github.com/ahmedlebo/ISLR/blob/main/Coceptual%2BPython/Chapter12.ipynb)
 
 
 ## Help me:
